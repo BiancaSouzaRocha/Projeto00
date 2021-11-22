@@ -1,4 +1,4 @@
-package Encapsulamento;
+package Projeto02;
 
 public class Controle {
 	

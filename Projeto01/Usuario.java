@@ -1,4 +1,4 @@
-package IntroducaoPOO;
+package Projeto01;
 
 public class Usuario {
 		public static void main (String [] args) {
