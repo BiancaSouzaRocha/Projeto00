@@ -1,4 +1,4 @@
-package Treino02;
+package application00;
 
 public class Produto {
 	

@@ -1,4 +1,4 @@
-package Treino04;
+package application02;
 
 public class Funcionario {
 	

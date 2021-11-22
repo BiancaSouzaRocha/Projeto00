@@ -1,4 +1,4 @@
-package Treino05;
+package application03;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Treino03;
+package application01;
 
 
 public class Retangulo {
