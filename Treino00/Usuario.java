@@ -1,4 +1,4 @@
-package Projeto01;
+package Treino00;
 
 public class Usuario {
 		public static void main (String [] args) {

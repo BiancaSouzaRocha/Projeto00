@@ -1,4 +1,4 @@
-package Projeto03;
+package Treino02;
 
 import java.util.Scanner;
  
@@ -35,7 +35,15 @@ public class Programa {
 		produto.adionandoProduto(quantidade);
 		
 		System.out.println();
-		System.out.println ("Atualizando informações do Produto: " + produto);
+		System.out.println ("Atualizando informações: " + produto);
+		
+		System.out.println();
+		System.out.print("Entre com o número de produtos para ser removidos do estoque: "); 
+		quantidade = sc.nextInt();
+		produto.removendoProduto(quantidade);
+		
+		System.out.println();
+		System.out.println ("Atualizando informações: " + produto);
 		
 		
 		sc.close();

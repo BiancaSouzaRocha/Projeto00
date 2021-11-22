@@ -1,4 +1,4 @@
-package Projeto03;
+package Treino02;
 
 public class Produto {
 	
